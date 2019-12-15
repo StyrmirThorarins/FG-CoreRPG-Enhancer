@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!-- 
+  Please see the license.html file included with this distribution for 
+  attribution and copyright information.
+-->
+
+<root>
+	<!-- Extension additions START -->
+
+
+	<!-- Tokens - Horizontal Health Bar -->	
+	<icon name="healthbar_horizontal" file="graphics/token/healthbar/token_healthbar_horizontal.png" />
+	<icon name="healthbar_original" file="graphics/token/healthbar/token_healthbar_original.png" />		
+
+	<!-- Tokens - Larger Health Dot -->
+	<icon name="healthdot_larger" file="graphics/token/healthdot/token_healthdot_larger.png" />	
+	<icon name="healthdot_original" file="graphics/token/healthdot/token_healthdot_original.png" />	
+
+	<!-- Tokens - Save tokens --> 
+	<icon name="save_success" file="graphics/token/save/success 1.png" />
+	<icon name="save_fail" file="graphics/token/save/fail 3.png" />
+
+	<!-- Icons that are posted next to ranged attack output text when using automatic range modifiers -->
+	<icon name="ranged_attack_1" file="graphics/icons/ranged_attack_1.png" />
+	<icon name="ranged_attack_2" file="graphics/icons/ranged_attack_2.png" />
+	<icon name="ranged_attack_3" file="graphics/icons/ranged_attack_3.png" />
+	
+
+	<!-- Extension additions END -->
+</root>
