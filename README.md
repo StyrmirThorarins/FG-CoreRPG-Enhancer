@@ -87,7 +87,7 @@ Secondary
 Several menu options included blank options. (scripts/menu_item_register.lua)
 
 ## Releases
-v0.1.0 (December, 17th, 2019)  
+v0.1.0 (December, 15th, 2019)  
 First version of CoreRPG Enhancer released. 
 - 'Reach underlay' and 'Faction/space underlay' made as toggle switches in the menu items. (scripts/manager_token.lua: updateSizeHelper)
 - Menu option to display and underlay under tokens on the map that are active in the combat tracker. Clears all other underlays than the current actor. (scrips/token_highlighter.lua | manager_token.lua: updateActiveHelper)
